@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "username": "user1",
+            "password": "Parola1"
+        },
+        {
+            "username": "corina",
+            "password": "Ab0"
+        },        
+        {
+            "username": "ana",
+            "password": "mAma8"
+        },        
+        {
+            "username": "USER28",
+            "password": "User28"
+        },
+        {
+            "username": "cORIna",
+            "password": "Mere99"
+        },
+        {
+            "username": "c0smin",
+            "password": "Codita0"
+        }
+    ]
+}
